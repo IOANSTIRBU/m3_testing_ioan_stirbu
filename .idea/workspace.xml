@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="396f2c4b-bcbd-4fdb-b985-6a9236edc080" name="Changes" comment="" />
+    <list default="true" id="396f2c4b-bcbd-4fdb-b985-6a9236edc080" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/demo/service/junit/SmartPhoneServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/demo/service/junit/SmartPhoneServiceImplTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1zgkIElceW8gZgft3Vly1Hm3oE7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
@@ -47,23 +55,7 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.SuiteTest">
-    <configuration name="SmartDeviceFacadeTest.SmartDeviceClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="M3-Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.demo.service.junit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.example.demo.service.junit" />
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.service.junit.SmartDeviceFacadeTest" />
-      <option name="METHOD_NAME" value="SmartDeviceClassTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SmartPhoneServiceImplTest.countNegativeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SmartPhoneServiceImplTest.findByWifiFist_IteratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="M3-Project" />
       <extension name="coverage">
         <pattern>
@@ -73,7 +65,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.example.demo.service.junit" />
       <option name="MAIN_CLASS_NAME" value="com.example.demo.service.junit.SmartPhoneServiceImplTest" />
-      <option name="METHOD_NAME" value="countNegativeTest" />
+      <option name="METHOD_NAME" value="findByWifiFist_IteratorTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmartPhoneServiceImplTest.findByWifiSecond_IteratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="M3-Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.service.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.service.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.service.junit.SmartPhoneServiceImplTest" />
+      <option name="METHOD_NAME" value="findByWifiSecond_IteratorTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,7 +103,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmartPhoneServiceImplTest.getMaxSmartPhoneIdTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SmartPhoneServiceImplTest.findByWifiThird_IteratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="M3-Project" />
       <extension name="coverage">
         <pattern>
@@ -105,7 +113,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.example.demo.service.junit" />
       <option name="MAIN_CLASS_NAME" value="com.example.demo.service.junit.SmartPhoneServiceImplTest" />
-      <option name="METHOD_NAME" value="getMaxSmartPhoneIdTest" />
+      <option name="METHOD_NAME" value="findByWifiThird_IteratorTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -129,10 +137,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.SuiteTest" />
+        <item itemvalue="JUnit.SmartPhoneServiceImplTest.findByWifiThird_IteratorTest" />
+        <item itemvalue="JUnit.SmartPhoneServiceImplTest.findByWifiSecond_IteratorTest" />
+        <item itemvalue="JUnit.SmartPhoneServiceImplTest.findByWifiFist_IteratorTest" />
         <item itemvalue="JUnit.SmartPhoneServiceImplTest.findByWifiTest" />
-        <item itemvalue="JUnit.SmartDeviceFacadeTest.SmartDeviceClassTest" />
-        <item itemvalue="JUnit.SmartPhoneServiceImplTest.getMaxSmartPhoneIdTest" />
-        <item itemvalue="JUnit.SmartPhoneServiceImplTest.countNegativeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -146,6 +154,17 @@
       <updated>1634577036902</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/M3_Project$EmployeeServiceImplTest_countTest.ic" NAME="EmployeeServiceImplTest.countTest Coverage Results" MODIFIED="1634741122985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -202,7 +221,7 @@
     <SUITE FILE_PATH="coverage/M3_Project$SmartPhoneServiceImplTest_saveCeroIdTest.ic" NAME="SmartPhoneServiceImplTest.saveCeroIdTest Coverage Results" MODIFIED="1635196865612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.example.demo.service.junit.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/M3_Project$SuiteTest.ic" NAME="SuiteTest Coverage Results" MODIFIED="1635247253208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/M3_Project$SuiteTest.ic" NAME="SuiteTest Coverage Results" MODIFIED="1635270822084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.example.demo.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/M3_Project$EmployeeServiceImplTest_findOneOptional.ic" NAME="EmployeeServiceImplTest.findOneOptional Coverage Results" MODIFIED="1634745466461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
