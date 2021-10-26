@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="396f2c4b-bcbd-4fdb-b985-6a9236edc080" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zgkIElceW8gZgft3Vly1Hm3oE7" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.demo.service" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.demo.service.junit" />
+      <recent name="com.example.demo.service.mockito" />
+      <recent name="com.example.demo.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SuiteTest">
+    <configuration name="SmartDeviceFacadeTest.SmartDeviceClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="M3-Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.service.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.service.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.service.junit.SmartDeviceFacadeTest" />
+      <option name="METHOD_NAME" value="SmartDeviceClassTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmartPhoneServiceImplTest.countNegativeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="M3-Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.service.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.service.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.service.junit.SmartPhoneServiceImplTest" />
+      <option name="METHOD_NAME" value="countNegativeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmartPhoneServiceImplTest.findByWifiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="M3-Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.service.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.service.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.service.junit.SmartPhoneServiceImplTest" />
+      <option name="METHOD_NAME" value="findByWifiTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmartPhoneServiceImplTest.getMaxSmartPhoneIdTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="M3-Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.service.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.service.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.service.junit.SmartPhoneServiceImplTest" />
+      <option name="METHOD_NAME" value="getMaxSmartPhoneIdTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuiteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="M3-Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.SuiteTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SuiteTest" />
+        <item itemvalue="JUnit.SmartPhoneServiceImplTest.findByWifiTest" />
+        <item itemvalue="JUnit.SmartDeviceFacadeTest.SmartDeviceClassTest" />
+        <item itemvalue="JUnit.SmartPhoneServiceImplTest.getMaxSmartPhoneIdTest" />
+        <item itemvalue="JUnit.SmartPhoneServiceImplTest.countNegativeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="396f2c4b-bcbd-4fdb-b985-6a9236edc080" name="Changes" comment="" />
+      <created>1634577036902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634577036902</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/M3_Project$EmployeeServiceImplTest_countTest.ic" NAME="EmployeeServiceImplTest.countTest Coverage Results" MODIFIED="1634741122985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$SmartWatchServiceImplTest_findAllTest.ic" NAME="SmartWatchServiceImplTest.findAllTest Coverage Results" MODIFIED="1635109117533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$SmartDeviceFactoryTest_createByTypeSmartWatch.ic" NAME="SmartDeviceFactoryTest.createByTypeSmartWatch Coverage Results" MODIFIED="1635146496442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.junit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$SmartPhoneServiceImplTest_getMaxSmartPhoneIdTest.ic" NAME="SmartPhoneServiceImplTest.getMaxSmartPhoneIdTest Coverage Results" MODIFIED="1635244379011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.junit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$IRPFCalculatorTest.ic" NAME="IRPFCalculatorTest Coverage Results" MODIFIED="1634840525594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.junit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$EmployeeServiceImplTestMock_saveEmployeeMockTest.ic" NAME="EmployeeServiceImplTestMock.saveEmployeeMockTest Coverage Results" MODIFIED="1635007505435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.mockito.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$EmployeeServiceImplTest_saveEmployeeTest.ic" NAME="EmployeeServiceImplTest.saveEmployeeTest Coverage Results" MODIFIED="1635178699996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.junit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$EmployeeServiceImplTestMock_saveEmployeeNullTest.ic" NAME="EmployeeServiceImplTestMock.saveEmployeeNullTest Coverage Results" MODIFIED="1635007795080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.mockito.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$SmartWatchServiceImplTest_saveCeroIdTest.ic" NAME="SmartWatchServiceImplTest.saveCeroIdTest Coverage Results" MODIFIED="1635179717705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.junit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$SmartDeviceFacadeTest_createSmarthPhoneBatteryTest.ic" NAME="SmartDeviceFacadeTest.createSmarthPhoneBatteryTest Coverage Results" MODIFIED="1634750486075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$EmployeeServiceImplTest_findOneTest.ic" NAME="EmployeeServiceImplTest.findOneTest Coverage Results" MODIFIED="1634917332739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.junit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$EmployeeServiceImplTestMock.ic" NAME="EmployeeServiceImplTestMock Coverage Results" MODIFIED="1634893258714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.mockito.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$EmployeeServiceImplTest_findAllTest.ic" NAME="EmployeeServiceImplTest.findAllTest Coverage Results" MODIFIED="1634741054049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$SmartWatchServiceImplTest_deleteNullTest.ic" NAME="SmartWatchServiceImplTest.deleteNullTest Coverage Results" MODIFIED="1635180839958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.junit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$SmartWatchServiceImplTest_saveNullIdTest.ic" NAME="SmartWatchServiceImplTest.saveNullIdTest Coverage Results" MODIFIED="1635178157575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.junit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$EmployeeServiceImplTest_findOneOptionalTest.ic" NAME="EmployeeServiceImplTest.findOneOptionalTest Coverage Results" MODIFIED="1634917365211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.junit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$SmartWatchServiceImplTest_findOneTest.ic" NAME="SmartWatchServiceImplTest.findOneTest Coverage Results" MODIFIED="1635110030469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.junit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$SmartPhoneServiceImplTest_saveCeroIdTest.ic" NAME="SmartPhoneServiceImplTest.saveCeroIdTest Coverage Results" MODIFIED="1635196865612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.junit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$SuiteTest.ic" NAME="SuiteTest Coverage Results" MODIFIED="1635247253208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$EmployeeServiceImplTest_findOneOptional.ic" NAME="EmployeeServiceImplTest.findOneOptional Coverage Results" MODIFIED="1634745466461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$EmployeeServiceImplTest_findOneOptionalNullTest.ic" NAME="EmployeeServiceImplTest.findOneOptionalNullTest Coverage Results" MODIFIED="1634917404144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.junit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$SalaryCalculatorServiceTest.ic" NAME="SalaryCalculatorServiceTest Coverage Results" MODIFIED="1634739727827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$SmartWatchServiceImplTest_findAll.ic" NAME="SmartWatchServiceImplTest.findAll Coverage Results" MODIFIED="1635108733593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.junit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$SmartDeviceFactoryTest_createByTypeSmartphone.ic" NAME="SmartDeviceFactoryTest.createByTypeSmartphone Coverage Results" MODIFIED="1635146255749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$EmployeeServiceImplTest.ic" NAME="EmployeeServiceImplTest Coverage Results" MODIFIED="1634832934900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$EmployeeRepositoryImplTest_getMaxIdTest.ic" NAME="EmployeeRepositoryImplTest.getMaxIdTest Coverage Results" MODIFIED="1634748612619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$EmployeeServiceImplTest_deleteIdEmployeeTest.ic" NAME="EmployeeServiceImplTest.deleteIdEmployeeTest Coverage Results" MODIFIED="1634744174096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$EmployeeServiceImplTest_findOneEmployeeNegativeTest.ic" NAME="EmployeeServiceImplTest.findOneEmployeeNegativeTest Coverage Results" MODIFIED="1634917115550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.junit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$EmployeeServiceImplTest_saveEmployeeCeroTest.ic" NAME="EmployeeServiceImplTest.saveEmployeeCeroTest Coverage Results" MODIFIED="1635179447012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.junit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$EmployeeServiceImplTest_findOneNullOptional.ic" NAME="EmployeeServiceImplTest.findOneNullOptional Coverage Results" MODIFIED="1634746409353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$SmartWatchServiceImplTest_count.ic" NAME="SmartWatchServiceImplTest.count Coverage Results" MODIFIED="1635107967306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$EmployeeServiceImplTest_findOneOptionalExceptionTest.ic" NAME="EmployeeServiceImplTest.findOneOptionalExceptionTest Coverage Results" MODIFIED="1634746090806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$SmartDeviceFacadeTest_SmartDeviceClassTest.ic" NAME="SmartDeviceFacadeTest.SmartDeviceClassTest Coverage Results" MODIFIED="1635243749759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.junit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$SmartWatchServiceImplTest_countTest.ic" NAME="SmartWatchServiceImplTest.countTest Coverage Results" MODIFIED="1635109097868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$EmployeeServiceImplTest_deleteAllEmployeesTest.ic" NAME="EmployeeServiceImplTest.deleteAllEmployeesTest Coverage Results" MODIFIED="1634833012401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$SmartDeviceFactoryTest.ic" NAME="SmartDeviceFactoryTest Coverage Results" MODIFIED="1635148004361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$EmployeeServiceImplTestMock_saveMockTest.ic" NAME="EmployeeServiceImplTestMock.saveMockTest Coverage Results" MODIFIED="1635007631252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.mockito.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$EmployeeServiceImplTest_deleteAllEmployees.ic" NAME="EmployeeServiceImplTest.deleteAllEmployees Coverage Results" MODIFIED="1634744712543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$SmartWatchServiceImplTest_deleteTotalTest.ic" NAME="SmartWatchServiceImplTest.deleteTotalTest Coverage Results" MODIFIED="1635181070509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.junit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$EmployeeServiceImplTest_saveNullEmployeeTest.ic" NAME="EmployeeServiceImplTest.saveNullEmployeeTest Coverage Results" MODIFIED="1635007098061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.junit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$SalaryCalculatorServiceTest_SalaryIRPFCalculatorTest.ic" NAME="SalaryCalculatorServiceTest.SalaryIRPFCalculatorTest Coverage Results" MODIFIED="1634749288606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$IVACalculatorTest.ic" NAME="IVACalculatorTest Coverage Results" MODIFIED="1634739706766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$SmartDeviceFacadeTest.ic" NAME="SmartDeviceFacadeTest Coverage Results" MODIFIED="1634801557938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$SalaryCalculatorServiceMockTests.ic" NAME="SalaryCalculatorServiceMockTests Coverage Results" MODIFIED="1634919017498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.mockito.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M3_Project$SmartPhoneServiceImplTest.ic" NAME="SmartPhoneServiceImplTest Coverage Results" MODIFIED="1634885117204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.service.junit.*</FILTER>
+    </SUITE>
+  </component>
+</project>
