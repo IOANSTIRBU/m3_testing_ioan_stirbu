@@ -32,11 +32,13 @@ class SmartDeviceFactoryTest {
         assertNotNull(result.getRam());
         assertNotNull(result.getBattery());
 
+
         //smarthphone
         //instanceof permite saber si un objeto es una instancia de una clase
         assertTrue(result instanceof SmartPhone);
         SmartPhone smartphone = (SmartPhone) result;
         assertNotNull(smartphone.getCamera());
+        assertNotNull(smartphone.toString());
 
     }
 

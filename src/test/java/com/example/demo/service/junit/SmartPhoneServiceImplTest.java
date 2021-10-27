@@ -235,75 +235,16 @@ class SmartPhoneServiceImplTest {
     @Test
     void findByWifiTest() {
         List<SmartPhone> smartphones = service.findByWifi(true);
-        SmartPhone phone2 = new SmartPhone(2L, "IPhone X edit",
-                new RAM(2L, "DDR3", 4),
-                new Battery(2L, 3500.0),
-                new CPU(2L, 2),
-                true,
-                new Camera(2L, "front camera", 8.5));
 
         assertEquals(2, smartphones.size());
-
-    }
-
-    @DisplayName("Comprobando si se puede iterar con el Map sobre las claves")
-    @Test
-    void findByWifiFist_IteratorTest() {
-        Map<Long, SmartPhone> smartphones = new HashMap<>();
-
-        SmartPhone phone1 = new SmartPhone(1L, "One plus 9",
-                new RAM(1L, "DDR4", 8),
-                new Battery(1L, 4500.0),
-                new CPU(1L, 4),
-                false,
-                new Camera(1L, "front camera", 12.5));
-        smartphones.put(1L, phone1);
-
-        for (Long id : smartphones.keySet())
-            System.out.println(id);
-
-        List<SmartPhone> result = service.findByWifi(true);
-        assertEquals(2, result.get(0).getId());
-    }
-
-    @DisplayName("Comprobando si se puede iterar con el Map sobre los valores")
-    @Test
-    void findByWifiSecond_IteratorTest() {
-        Map<Long, SmartPhone> smartphones = new HashMap<>();
-        SmartPhone phone1 = new SmartPhone(1L, "One plus 9",
-                new RAM(1L, "DDR4", 8),
-                new Battery(1L, 4500.0),
-                new CPU(1L, 4),
-                false,
-                new Camera(1L, "front camera", 12.5));
-        smartphones.put(1L, phone1);
-        List<SmartPhone> result = service.findByWifi(true);
-        boolean wifi = true;
-
-        for (SmartPhone phone : smartphones.values())
-            if (phone.getWifi().equals(wifi))
-                result.add(phone);
-
-        assertNotNull(result.get(0).getWifi().equals(wifi));
-
-    }
-
-    @DisplayName("Comprobando si se puede iterar con el Map sobre el par completo")
-    @Test
-    void findByWifiThird_IteratorTest() {
-
-        Map<Long, SmartPhone> smartphones = new HashMap<>();
-
-        List<SmartPhone> result = service.findByWifi(true);
-
-        for (Map.Entry<Long, SmartPhone> entry : smartphones.entrySet()) {
-            System.out.println(entry.getKey());
-            System.out.println(entry.getValue());
+        assertTrue(smartphones.get(0).getWifi());
+        for (SmartPhone smartphone : smartphones){
+            assertTrue(smartphone.getWifi());
         }
 
-        assertNotNull(result.get(0).getId());
-
     }
+
+
 
 
 }

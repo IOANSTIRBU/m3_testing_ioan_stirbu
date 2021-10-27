@@ -68,6 +68,7 @@ class SmartDeviceFacadeTest {
 
         SmartWatch watch = (SmartWatch) result;
         assertNotNull(watch.getMonitor());
+        assertNotNull(result.toString());
 
 
     }
