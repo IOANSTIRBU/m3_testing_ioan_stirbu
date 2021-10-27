@@ -1,9 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-    <modelVersion>4.0.0</modelVersion>
+##Proyecto M3 con JUnit & Mockito
 
+En el `pom.xml` encontrarás las dependecias de:
+
+`<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<modelVersion>4.0.0</modelVersion>
+<project>
     <groupId>org.example</groupId>
     <artifactId>m3-junit</artifactId>
     <version>1.0-SNAPSHOT</version>
@@ -40,6 +44,21 @@
             <scope>test</scope>
         </dependency>
 
+
     </dependencies>
 
-</project>
+</project>`
+
+
+-Dos directorios:
+1. El programa a testear
+
+  a) El directorio: `src/main/java/com.example.demo`
+    
+2. Donde se van a realizar los test
+
+b)El directorio: `test/java/com.example.demo.service`
+que tendra dos subdirectorios despues del directorio service uno para el JUnit y otro para Mockito
+
+Por último un directorio que tendra un Test llamado "SuiteTest" que servira
+para poder ejecutar todos los test de golpe
