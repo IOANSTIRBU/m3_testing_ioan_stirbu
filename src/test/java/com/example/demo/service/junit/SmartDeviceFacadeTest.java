@@ -39,7 +39,7 @@ class SmartDeviceFacadeTest {
     @DisplayName("Comprobando que se ejecutan las demas propiedades de la clase SmartDeviceFacade")
     @Test
     void SmartDeviceClassTest(){
-        SmartDevice result = SmartDeviceFacade.createSmartPhone();
+        SmartDevice result = new SmartPhone();
         result.setName("Tamgochi");
         RAM ram = new RAM(1L,"DDR3",6);
         Battery battery = new Battery(1L,4.500);
@@ -49,8 +49,6 @@ class SmartDeviceFacadeTest {
         result.setBattery(battery);
         result.setCpu(cpu);
         result.setWifi(true);
-        assertNotNull(result.toString());
-
 
     }
 

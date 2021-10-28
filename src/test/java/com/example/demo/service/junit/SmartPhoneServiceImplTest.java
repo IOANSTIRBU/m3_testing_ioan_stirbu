@@ -1,5 +1,6 @@
 package com.example.demo.service.junit;
 
+import com.example.demo.domain.SmartDevice;
 import com.example.demo.domain.SmartPhone;
 import com.example.demo.domain.SmartWatch;
 import com.example.demo.domain.pieces.*;
@@ -195,6 +196,7 @@ class SmartPhoneServiceImplTest {
         assertNotNull(smartphone.getCamera());
         Camera camera = new Camera(1L, "Canon", 34D);
         smartphone.setCamera(camera);
+
 
 
     }
