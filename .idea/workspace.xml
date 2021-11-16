@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="396f2c4b-bcbd-4fdb-b985-6a9236edc080" name="Changes" comment="pom update">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/sonarcloud.yml" afterDir="false" />
+    <list default="true" id="396f2c4b-bcbd-4fdb-b985-6a9236edc080" name="Changes" comment="fix commit">
+      <change afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +187,28 @@
       <option name="project" value="LOCAL" />
       <updated>1636631628128</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="nuevo commit">
+      <created>1636631805745</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1636631805745</updated>
+    </task>
+    <task id="LOCAL-00007" summary="otro commit">
+      <created>1636631920805</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1636631920805</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fix commit">
+      <created>1636632496566</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1636632496566</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,7 +228,10 @@
     <MESSAGE value="Update 27/10/2021 and Finished" />
     <MESSAGE value="Update 28/10/2021 and Finished" />
     <MESSAGE value="pom update" />
-    <option name="LAST_COMMIT_MESSAGE" value="pom update" />
+    <MESSAGE value="nuevo commit" />
+    <MESSAGE value="otro commit" />
+    <MESSAGE value="fix commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/M3_Project$EmployeeServiceImplTest_countTest.ic" NAME="EmployeeServiceImplTest.countTest Coverage Results" MODIFIED="1634741122985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
